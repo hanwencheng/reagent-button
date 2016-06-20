@@ -1,4 +1,4 @@
-(defproject reagent-button "0.1.0-SNAPSHOT"
+(defproject reagent-button "0.1.0"
   :description "button component for reagent"
   :url "https://github.com/hanwencheng/reagent-button"
   :license {:name "Eclipse Public License"
